@@ -1,6 +1,4 @@
-# empty-project
-
-Empty project.
+# Hetic H3 Simple Boilerplate
 
 ## Building and running on localhost
 
